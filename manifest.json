@@ -1,0 +1,10 @@
+{
+  "name": "AlmaguaFound",
+  "start_url": "https://sghome.github.io/AlmaguaFound/",
+  "description": "Decentralized Crowdfunding.",
+  "icons": [{
+    "src": "https://cdn.glitch.com/69eea24e-b9b9-493b-a194-22c15ed304d4%2Fg1221.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
