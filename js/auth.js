@@ -1,6 +1,6 @@
 
 document.getElementById('signin-button').addEventListener('click', function() {
-  blockstack.redirectToSignIn('https://sghome.github.io/AlmaguaFound/start.html');
+  blockstack.redirectToSignIn('https://almagua-found.vercel.app/start.html');
 })
 
 document.getElementById('signout-button').addEventListener('click', function() {
